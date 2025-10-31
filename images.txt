@@ -1,1 +1,3 @@
-apache/spark:3.2.4-scala2.12-java8
+bde2020/spark-base:3.2.1-hadoop3.3
+bde2020/spark-master:3.2.1-hadoop3.3
+bde2020/spark-worker:3.2.1-hadoop3.3
