@@ -1,5 +1,5 @@
-bitnami/postgresql:15.2.0
-bitnami/zookeeper:3.7.1
+postgresql:13
+zookeeper:3.8
 apache/dolphinscheduler-api:3.2.1        
 apache/dolphinscheduler-master:3.2.1      
 apache/dolphinscheduler-worker:3.2.1      
