@@ -1,6 +1,6 @@
-dolphinscheduler-postgresql  
-dolphinscheduler-zookeeper   
-dolphinscheduler-api        
-dolphinscheduler-master      
-dolphinscheduler-worker      
-dolphinscheduler-alert       
+apache/dolphinscheduler-postgresql  
+apache/dolphinscheduler-zookeeper   
+apache/dolphinscheduler-api        
+apache/dolphinscheduler-master      
+apache/dolphinscheduler-worker      
+apache/dolphinscheduler-alert       
