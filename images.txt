@@ -1,1 +1,6 @@
-apache/flink:1.16.3
+dolphinscheduler-postgresql  
+dolphinscheduler-zookeeper   
+dolphinscheduler-api        
+dolphinscheduler-master      
+dolphinscheduler-worker      
+dolphinscheduler-alert       
